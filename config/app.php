@@ -2,6 +2,9 @@
 
 use Illuminate\Support\Facades\Facade;
 
+// Configuration - Application
+// Paramètres généraux de l'application
+
 return [
 
     'name' => env('APP_NAME', 'Laravel'),
