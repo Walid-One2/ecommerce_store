@@ -2,6 +2,9 @@
 
 use Illuminate\Support\Str;
 
+// Configuration - Base de données
+// Connexions et paramètres database
+
 return [
 
     'default' => env('DB_CONNECTION', 'mysql'),
