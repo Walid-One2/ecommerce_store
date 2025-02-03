@@ -4,6 +4,9 @@ namespace App\Http;
 
 use Illuminate\Foundation\Http\Kernel as HttpKernel;
 
+// Kernel HTTP - Noyau de l'application
+// Configuration des middleware et routes
+
 class Kernel extends HttpKernel
 {
     
