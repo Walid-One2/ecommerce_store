@@ -1,5 +1,8 @@
 <?php
 
+// Configuration - Systèmes de fichiers
+// Disques de stockage
+
 return [
 
     'default' => env('FILESYSTEM_DISK', 'local'),
