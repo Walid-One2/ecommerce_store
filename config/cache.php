@@ -2,6 +2,9 @@
 
 use Illuminate\Support\Str;
 
+// Configuration - Cache
+// Drivers et paramètres de cache
+
 return [
 
     'default' => env('CACHE_DRIVER', 'file'),
