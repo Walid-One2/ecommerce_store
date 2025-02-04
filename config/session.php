@@ -2,6 +2,9 @@
 
 use Illuminate\Support\Str;
 
+// Configuration - Sessions
+// Gestion des sessions utilisateurs
+
 return [
 
     'driver' => env('SESSION_DRIVER', 'file'),
