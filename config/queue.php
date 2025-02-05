@@ -1,5 +1,8 @@
 <?php
 
+// Configuration - Files d'attente
+// Gestion des jobs asynchrones
+
 return [
 
     'default' => env('QUEUE_CONNECTION', 'sync'),
