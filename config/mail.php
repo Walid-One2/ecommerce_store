@@ -1,5 +1,8 @@
 <?php
 
+// Configuration - Email
+// Paramètres d'envoi d'emails
+
 return [
 
     'default' => env('MAIL_MAILER', 'smtp'),
