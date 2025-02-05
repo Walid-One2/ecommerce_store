@@ -4,6 +4,9 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
+// Migration - Table users
+// Création de la table des utilisateurs
+
 return new class extends Migration
 {
     
