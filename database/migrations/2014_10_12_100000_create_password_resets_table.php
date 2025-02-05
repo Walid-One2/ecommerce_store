@@ -4,6 +4,9 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
+// Migration - Table password_resets
+// Gestion des réinitialisations de mot de passe
+
 return new class extends Migration
 {
     
