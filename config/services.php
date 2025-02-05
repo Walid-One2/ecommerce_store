@@ -1,5 +1,8 @@
 <?php
 
+// Configuration - Services tiers
+// API et services externes
+
 return [
 
     'mailgun' => [
