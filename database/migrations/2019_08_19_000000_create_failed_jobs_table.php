@@ -4,6 +4,9 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
+// Migration - Table failed_jobs
+// Suivi des tâches échouées
+
 return new class extends Migration
 {
     
