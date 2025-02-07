@@ -5,6 +5,9 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
+// Modèle Product - Produit
+// Représente un produit du catalogue
+
 class Product extends Model
 {
     
