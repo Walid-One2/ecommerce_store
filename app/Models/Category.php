@@ -5,6 +5,9 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
+// Composant Organism - Catégorie
+// Affichage complet d'une catégorie
+
 class Category extends Model
 {
     protected $fillable = ['shop_id', 'name', 'path'];
