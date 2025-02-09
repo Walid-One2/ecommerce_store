@@ -5,6 +5,9 @@ namespace Database\Factories;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Illuminate\Support\Str;
 
+// Factory - Générateur utilisateurs
+// Génère des utilisateurs de test
+
 class UserFactory extends Factory
 {
     
