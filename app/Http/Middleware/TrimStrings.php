@@ -4,6 +4,9 @@ namespace App\Http\Middleware;
 
 use Illuminate\Foundation\Http\Middleware\TrimStrings as Middleware;
 
+// Middleware - Nettoyage chaînes
+// Supprime les espaces des données d'entrée
+
 class TrimStrings extends Middleware
 {
     
