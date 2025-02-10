@@ -4,6 +4,9 @@ namespace App\Http\Middleware;
 
 use Illuminate\Auth\Middleware\Authenticate as Middleware;
 
+// Middleware - Authentification
+// Vérifie que l'utilisateur est authentifié
+
 class Authenticate extends Middleware
 {
     
