@@ -7,6 +7,9 @@ use Closure;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 
+// Middleware - Redirection si authentifié
+// Redirige les utilisateurs déjà connectés
+
 class RedirectIfAuthenticated
 {
     
