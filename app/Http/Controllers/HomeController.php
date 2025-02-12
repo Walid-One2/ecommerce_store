@@ -8,6 +8,9 @@ use App\Models\Product;
 use App\Models\Category;
 use App\Models\Order;
 
+// Contrôleur Home - Page d'accueil
+// Gère l'affichage du dashboard utilisateur
+
 class HomeController extends Controller
 {
     
