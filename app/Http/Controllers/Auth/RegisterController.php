@@ -9,6 +9,9 @@ use Illuminate\Foundation\Auth\RegistersUsers;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;
 
+// Contrôleur Auth - Inscription
+// Création de nouveaux comptes utilisateurs
+
 class RegisterController extends Controller
 {
     
