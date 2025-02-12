@@ -6,6 +6,9 @@ use App\Http\Controllers\Controller;
 use App\Providers\RouteServiceProvider;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
 
+// Contrôleur Auth - Connexion
+// Authentification des utilisateurs
+
 class LoginController extends Controller
 {
     
