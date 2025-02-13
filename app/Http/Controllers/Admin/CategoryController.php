@@ -8,6 +8,9 @@ use App\Models\Category;
 use Validator;
 use Str;
 use Auth;
+// Contrôleur Admin - Gestion des catégories
+// CRUD pour les catégories de produits
+
 class CategoryController extends Controller
 {
     public function index(){
