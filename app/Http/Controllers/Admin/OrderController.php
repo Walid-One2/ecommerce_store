@@ -8,6 +8,9 @@ use App\Models\Order;
 use App\Models\OrderDetail;
 use App\Models\Product;
 
+// Contrôleur Admin - Gestion des commandes
+// Affichage et traitement des commandes clients
+
 class OrderController extends Controller
 {
     public function index(){
