@@ -11,6 +11,9 @@ use Validator;
 use Str;
 use File;
 
+// Contrôleur Admin - Gestion des produits
+// CRUD produits avec upload d'images
+
 class ProductController extends Controller
 {
     public function index(){
