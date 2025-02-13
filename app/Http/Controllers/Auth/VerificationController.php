@@ -6,6 +6,9 @@ use App\Http\Controllers\Controller;
 use App\Providers\RouteServiceProvider;
 use Illuminate\Foundation\Auth\VerifiesEmails;
 
+// Contrôleur Auth - Vérification email
+// Validation des adresses email
+
 class VerificationController extends Controller
 {
     
