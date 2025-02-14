@@ -8,6 +8,9 @@ use App\Http\Controllers\Admin\OrderController;
 use App\Http\Controllers\Client\ClientController;
 use App\Http\Controllers\Client\CartController;
 
+// Routes Web - Interface utilisateur
+// Routes pour les pages web
+
 Route::controller(ClientController::class)->group(function(){
     Route::get('/', 'index')->name('clientHome');
     Route::get('/products', 'products')->name('clientProducts');
