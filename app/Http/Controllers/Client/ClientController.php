@@ -12,6 +12,9 @@ use App\Models\OrderDetail;
 use Validator;
 use Str;
 
+// Contrôleur Client - Interface utilisateur
+// Pages publiques et catalogue produits
+
 class ClientController extends Controller
 {
     public function index(){
