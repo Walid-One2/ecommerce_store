@@ -7,6 +7,9 @@ use Illuminate\Http\Request;
 use App\Models\Product;
 use App\Models\Shop;
 
+// Contrôleur Client - Panier
+// Gestion du panier d'achat
+
 class CartController extends Controller
 {
     public function carts(){
