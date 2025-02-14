@@ -10,6 +10,9 @@ use Str;
 use Auth;
 use App\Models\User;
 use Illuminate\Support\Facades\Hash;
+// Contrôleur Admin - Gestion de la boutique
+// Configuration et paramètres de la boutique
+
 class ShopController extends Controller
 {
     public function create(Request $request){
