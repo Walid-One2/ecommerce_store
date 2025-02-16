@@ -1,3 +1,4 @@
+{-- Composant Blade - verify --}
 @extends('layouts.app')
 
 @section('content')
