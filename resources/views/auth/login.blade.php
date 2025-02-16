@@ -1,3 +1,4 @@
+{{-- Vue Auth - Connexion --}}
 <!DOCTYPE html>
 <html lang="en">
 
