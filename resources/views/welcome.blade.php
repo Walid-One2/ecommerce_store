@@ -1,3 +1,4 @@
+{{-- Vue Welcome - Page d'accueil --}}
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
