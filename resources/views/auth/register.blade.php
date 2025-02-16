@@ -1,3 +1,4 @@
+{{-- Vue Auth - Inscription --}}
 <?php
   use App\Models\User;
   if (!User::exists()){
