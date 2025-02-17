@@ -1,3 +1,4 @@
+{{-- Layout - Template admin/client --}}
 <!DOCTYPE html>
 <html lang="en">
 
