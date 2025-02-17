@@ -1,3 +1,4 @@
+{-- Composant Blade - reset --}
 @extends('layouts.app')
 
 @section('content')
