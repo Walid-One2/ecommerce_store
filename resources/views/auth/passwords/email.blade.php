@@ -1,3 +1,4 @@
+{-- Composant Blade - email --}
 @extends('layouts.app')
 
 @section('content')
