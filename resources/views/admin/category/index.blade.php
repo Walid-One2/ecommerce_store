@@ -1,3 +1,4 @@
+{-- Composant Blade - index --}
 @extends('admin.layout')
 @section('button')
   <a href="{{ route('categoryCreate') }}" class="btn btn-outline-primary">Create</a>
