@@ -1,3 +1,4 @@
+{-- Composant Blade - edit --}
 @extends('admin.layout')
 @section('css')
   <link rel="stylesheet" href="{{ asset('assets/vendors/select-live/dselect.scss') }}">
