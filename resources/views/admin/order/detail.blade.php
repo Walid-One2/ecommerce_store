@@ -1,3 +1,4 @@
+{-- Composant Blade - detail --}
 @extends('admin.layout')
 @section('css')
   <style>
