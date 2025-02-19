@@ -1,3 +1,4 @@
+{-- Composant Blade - index --}
 @extends('admin.layout')
 @section('css')
 <link rel="stylesheet" href="{{ asset('assets/vendors/simple-datatables/style.css') }}">
