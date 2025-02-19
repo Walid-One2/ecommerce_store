@@ -1,3 +1,4 @@
+{-- Composant Blade - addImages --}
 @extends('admin.layout')
 @section('css')
   <link rel="stylesheet" href="{{ asset('assets/vendors/dropzone/dropzone.min.css') }}">
