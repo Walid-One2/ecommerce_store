@@ -1,3 +1,4 @@
+{-- Composant Blade - index --}
 <x-template.layout title="{{ $title }}" >
   <x-organisms.navbar :path="$shop->path"/>
   <x-organisms.hero :dataProduct="$product"/>
