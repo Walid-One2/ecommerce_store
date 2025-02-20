@@ -1,3 +1,4 @@
+{-- Composant Blade - detail --}
 @extends('admin.layout')
 @section('css')
 <link rel="stylesheet" href="{{ asset('assets/css/upload.css')}}" />
