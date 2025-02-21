@@ -1,3 +1,4 @@
+{-- Composant Blade - categoryProducts --}
 <x-template.layout title="{{$title}}">
   <x-organisms.navbar cartCount=10 :path="$shop->path"/>
   <x-organisms.products :dataProduct="$category->product">
