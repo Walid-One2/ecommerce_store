@@ -4,6 +4,9 @@ namespace App\View\Components\Template;
 
 use Illuminate\View\Component;
 
+// Composant Template - Layout principal
+// Structure de base des pages
+
 class Layout extends Component
 {
     
