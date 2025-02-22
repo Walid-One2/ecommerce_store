@@ -1,3 +1,4 @@
+{-- Composant Blade - checkout --}
 <x-template.layout title="{{ $title }}" >
   <x-organisms.navbar :path="$shop->path"/>
   <div class="container mt-3">
