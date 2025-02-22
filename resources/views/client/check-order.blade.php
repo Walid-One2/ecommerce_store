@@ -1,3 +1,4 @@
+{-- Composant Blade - check-order --}
 <x-template.layout title="{{ $title }}" >  
   <x-organisms.navbar :path="$shop->path"/>
   <x-molecules.check-order.form />
