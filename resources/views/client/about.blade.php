@@ -1,3 +1,4 @@
+{-- Composant Blade - about --}
 <x-template.layout title="{{$title}}">
   <x-organisms.navbar cartCount=10 :path="$shop->path"/>
   <x-molecules.about.hero :shop="$shop"/>
