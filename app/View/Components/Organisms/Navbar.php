@@ -4,6 +4,9 @@ namespace App\View\Components\Organisms;
 
 use Illuminate\View\Component;
 
+// Composant Organism - Barre de navigation
+// Navigation principale
+
 class Navbar extends Component
 {
     
