@@ -1,3 +1,4 @@
+{-- Composant Blade - success-order --}
 <x-template.layout title="{{ $title }}" >
   <x-organisms.navbar :path="$shop->path"/>
     <div class="container py-y d-flex flex-column align-items-center gap-3">
