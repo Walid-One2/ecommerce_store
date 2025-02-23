@@ -4,6 +4,9 @@ namespace App\View\Components\Organisms;
 
 use Illuminate\View\Component;
 
+// Composant Organism - Liste produits
+// Grille de produits
+
 class Products extends Component
 {
     
