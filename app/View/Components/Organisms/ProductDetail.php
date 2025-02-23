@@ -4,6 +4,9 @@ namespace App\View\Components\Organisms;
 
 use Illuminate\View\Component;
 
+// Composant Organism - Détail produit
+// Page complète produit
+
 class ProductDetail extends Component
 {
     
