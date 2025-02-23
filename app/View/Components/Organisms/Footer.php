@@ -4,6 +4,9 @@ namespace App\View\Components\Organisms;
 
 use Illuminate\View\Component;
 
+// Composant Organism - Pied de page
+// Footer du site
+
 class Footer extends Component
 {
     
