@@ -4,6 +4,9 @@ namespace App\View\Components\Organisms;
 
 use Illuminate\View\Component;
 
+// Composant Organism - Catégorie
+// Affichage complet d'une catégorie
+
 class Category extends Component
 {
     
