@@ -4,6 +4,9 @@ namespace App\View\Components\Organisms;
 
 use Illuminate\View\Component;
 
+// Composant Organism - Carrousel catégories
+// Carrousel de catégories
+
 class CarouselCategory extends Component
 {
     
