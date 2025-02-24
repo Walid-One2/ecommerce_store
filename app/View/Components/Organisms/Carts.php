@@ -4,6 +4,9 @@ namespace App\View\Components\Organisms;
 
 use Illuminate\View\Component;
 
+// Composant Organism - Panier
+// Section complète du panier
+
 class Carts extends Component
 {
     
