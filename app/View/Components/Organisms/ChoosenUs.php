@@ -4,6 +4,9 @@ namespace App\View\Components\Organisms;
 
 use Illuminate\View\Component;
 
+// Composant Organism - Pourquoi nous choisir
+// Section arguments de vente
+
 class ChoosenUs extends Component
 {
     
