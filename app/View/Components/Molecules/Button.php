@@ -4,6 +4,9 @@ namespace App\View\Components\Molecules;
 
 use Illuminate\View\Component;
 
+// Composant Molecule - Bouton
+// Bouton réutilisable avec styles
+
 class Button extends Component
 {
     
