@@ -4,6 +4,9 @@ namespace App\View\Components\Organisms;
 
 use Illuminate\View\Component;
 
+// Composant Organism - Rejoindre la communauté
+// Section newsletter/communauté
+
 class JoinCommunity extends Component
 {
     
