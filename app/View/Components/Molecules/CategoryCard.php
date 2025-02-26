@@ -4,6 +4,9 @@ namespace App\View\Components\Molecules;
 
 use Illuminate\View\Component;
 
+// Composant Molecule - Carte catégorie
+// Affichage d'une catégorie
+
 class CategoryCard extends Component
 {
     
