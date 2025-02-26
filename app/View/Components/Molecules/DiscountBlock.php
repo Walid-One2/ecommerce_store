@@ -4,6 +4,9 @@ namespace App\View\Components\Molecules;
 
 use Illuminate\View\Component;
 
+// Composant Molecule - Bloc réduction
+// Affichage d'une promotion
+
 class DiscountBlock extends Component
 {
     
