@@ -4,6 +4,9 @@ namespace App\View\Components\Molecules\Navbar;
 
 use Illuminate\View\Component;
 
+// Composant Molecule Navbar - Barre de recherche
+// Recherche de produits
+
 class SearchBar extends Component
 {
     
