@@ -4,6 +4,9 @@ namespace App\View\Components\Molecules;
 
 use Illuminate\View\Component;
 
+// Composant Molecule - Carte produit
+// Affichage d'un produit
+
 class ProductCard extends Component
 {
     
