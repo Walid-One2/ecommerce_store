@@ -4,6 +4,9 @@ namespace App\View\Components\Molecules;
 
 use Illuminate\View\Component;
 
+// Composant Molecule - Bloc "Pourquoi nous choisir"
+// Argument de vente
+
 class ChoosenBlock extends Component
 {
     
