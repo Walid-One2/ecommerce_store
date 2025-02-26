@@ -4,6 +4,9 @@ namespace App\View\Components\Molecules\Navbar;
 
 use Illuminate\View\Component;
 
+// Composant Molecule Navbar - Menu
+// Menu de navigation
+
 class Menu extends Component
 {
     
