@@ -4,6 +4,9 @@ namespace App\View\Components\Molecules\ProductDetail;
 
 use Illuminate\View\Component;
 
+// Composant Molecule ProductDetail - Contenu
+// Description et informations produit
+
 class ProductContent extends Component
 {
     
