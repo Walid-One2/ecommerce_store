@@ -4,6 +4,9 @@ namespace App\View\Components\Molecules\Hero;
 
 use Illuminate\View\Component;
 
+// Composant Molecule Hero - Carte produit héro
+// Produit mis en avant dans le héro
+
 class CardProduct extends Component
 {
     
