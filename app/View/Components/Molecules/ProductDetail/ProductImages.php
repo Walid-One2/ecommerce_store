@@ -4,6 +4,9 @@ namespace App\View\Components\Molecules\ProductDetail;
 
 use Illuminate\View\Component;
 
+// Composant Molecule ProductDetail - Images
+// Galerie d'images produit
+
 class ProductImages extends Component
 {
     
