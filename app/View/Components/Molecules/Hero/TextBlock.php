@@ -4,6 +4,9 @@ namespace App\View\Components\Molecules\Hero;
 
 use Illuminate\View\Component;
 
+// Composant Molecule Hero - Bloc texte
+// Texte promotionnel du héro
+
 class TextBlock extends Component
 {
     
