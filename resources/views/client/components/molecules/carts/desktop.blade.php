@@ -1,3 +1,4 @@
+{-- Composant Blade - desktop --}
 <table id="cart" class="table table-hover table-striped">
     <thead>
         <tr>

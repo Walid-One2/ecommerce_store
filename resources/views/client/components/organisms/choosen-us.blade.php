@@ -1,3 +1,4 @@
+{-- Composant Blade - choosen-us --}
 <div class="container py-5">
     <h1 class="text-center py-5">Why Choose US</h1>
     <div class="row g-4">

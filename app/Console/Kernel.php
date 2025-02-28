@@ -5,6 +5,9 @@ namespace App\Console;
 use Illuminate\Console\Scheduling\Schedule;
 use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
 
+// Kernel HTTP - Noyau de l'application
+// Configuration des middleware et routes
+
 class Kernel extends ConsoleKernel
 {
     /**

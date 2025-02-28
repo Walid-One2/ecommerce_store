@@ -1,3 +1,4 @@
+{-- Composant Blade - menu --}
 <ul class="nav-list">
   <li class="nav-item">
     <a href="/" class="nav-link">Home</a>

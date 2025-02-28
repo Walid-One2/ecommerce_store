@@ -1,3 +1,4 @@
+{-- Composant Blade - product-content --}
 
 @push('css')
   <style>

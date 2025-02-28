@@ -1,3 +1,4 @@
+{-- Composant Blade - simple-bootstrap-4 --}
 @if ($paginator->hasPages())
     <nav>
         <ul class="pagination">

@@ -1,3 +1,4 @@
+{-- Composant Blade - text-block --}
 @push('css')
     <link rel="stylesheet" href="{{ asset('client/components/molecules/hero/text-block.css') }}">
 @endpush

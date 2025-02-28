@@ -1,3 +1,4 @@
+{-- Composant Blade - shipping-returns --}
 <div class="shipping py-md-5 py-2" id="shippingandreturns">
   <div class="container">
     <div class="row">

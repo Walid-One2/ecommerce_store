@@ -1,3 +1,4 @@
+{-- Composant Blade - product-images --}
 @push('css')
     <link rel="stylesheet" href="{{ asset('assets/vendors/images-product-slider/swiper.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/vendors/images-product-slider/easyzoom.css') }}">

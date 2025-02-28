@@ -1,3 +1,4 @@
+{-- Composant Blade - search-bar --}
 <form action="{{ route('clientProductSearch') }}" class="search" method="GET">
   <input class="search__input" type="search" placeholder="Search" id="searchInput" name="product" onfocus="Onfocus(this)" onblur="Onblur(this)">
   <div class="search__icon-container">

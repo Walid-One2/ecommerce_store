@@ -1,3 +1,4 @@
+{-- Composant Blade - card-product --}
 @foreach ($dataImage->take(1) as $image)
     <div class="hero-product" style="background-image: url({{ asset('shop/products/'. $image->path ) }})">
 @endforeach

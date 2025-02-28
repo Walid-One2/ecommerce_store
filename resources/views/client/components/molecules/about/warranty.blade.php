@@ -1,3 +1,4 @@
+{-- Composant Blade - warranty --}
 <div class="warranty py-md-5 py-2" id="warranty">
   <div class="container">
     <div class="row">

@@ -1,3 +1,4 @@
+{-- Composant Blade - simple-bootstrap-5 --}
 @if ($paginator->hasPages())
     <nav role="navigation" aria-label="Pagination Navigation">
         <ul class="pagination">

@@ -1,3 +1,4 @@
+{-- Composant Blade - mobile --}
 @php $total = 0 @endphp
 @if(session('cart'))
     @foreach((array) session('cart') as $id => $details)

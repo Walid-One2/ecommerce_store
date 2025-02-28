@@ -1,3 +1,4 @@
+{-- Composant Blade - form --}
 <div class="container py-3">
     <h3 class="mb-4 font-primary"><b><u>Check Order</u></b></h3>
     <form action="{{ route('clientCheckOrderStatus') }}" method="post">

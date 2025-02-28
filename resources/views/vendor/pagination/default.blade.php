@@ -1,3 +1,4 @@
+{-- Composant Blade - default --}
 @if ($paginator->hasPages())
     <nav>
         <ul class="pagination">

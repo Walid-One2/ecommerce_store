@@ -1,5 +1,8 @@
 <?php
 
+// Configuration - Application
+// Paramètres généraux de l'application
+
 /*
 |--------------------------------------------------------------------------
 | Create The Application

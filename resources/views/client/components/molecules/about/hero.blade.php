@@ -1,3 +1,4 @@
+{-- Composant Blade - hero --}
 @push('css')
     <style>
         .about-text h4{

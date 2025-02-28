@@ -1,3 +1,4 @@
+{-- Composant Blade - f-a-q --}
 <div class="faq py-md-5 py-2" id="faq">
   <div class="container">
     <div class="row">

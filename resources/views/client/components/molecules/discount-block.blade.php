@@ -1,3 +1,4 @@
+{-- Composant Blade - discount-block --}
 <div class="col-md-6 col-12">
     <div class="p-4 discount-block bg-{{$background}} d-flex justify-content-between" style="border-radius:1.2rem;">
         <div class="d-flex flex-column justify-content-between">

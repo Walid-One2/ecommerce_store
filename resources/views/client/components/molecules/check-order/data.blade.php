@@ -1,3 +1,4 @@
+{-- Composant Blade - data --}
 @push('css')
     <style>
         .order-info > tbody > tr{
