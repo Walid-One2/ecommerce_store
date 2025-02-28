@@ -4,6 +4,9 @@ namespace App\View\Components\Molecules\CheckOrder;
 
 use Illuminate\View\Component;
 
+// Composant Molecule CheckOrder - Formulaire
+// Formulaire de vérification commande
+
 class Form extends Component
 {
     
