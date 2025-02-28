@@ -4,6 +4,9 @@ namespace App\View\Components\Molecules\CheckOrder;
 
 use Illuminate\View\Component;
 
+// Composant Molecule CheckOrder - Données
+// Affichage des détails de commande
+
 class Data extends Component
 {
     
