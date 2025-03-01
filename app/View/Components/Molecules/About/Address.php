@@ -4,6 +4,9 @@ namespace App\View\Components\Molecules\About;
 
 use Illuminate\View\Component;
 
+// Composant Molecule About - Adresse
+// Affichage de l'adresse de contact
+
 class Address extends Component
 {
     
