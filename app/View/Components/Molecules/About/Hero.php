@@ -4,6 +4,9 @@ namespace App\View\Components\Molecules\About;
 
 use Illuminate\View\Component;
 
+// Composant Organism - Héro
+// Bannière principale
+
 class Hero extends Component
 {
     
