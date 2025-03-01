@@ -4,6 +4,9 @@ namespace App\View\Components\Molecules\About;
 
 use Illuminate\View\Component;
 
+// Composant Molecule About - FAQ
+// Questions fréquemment posées
+
 class FAQ extends Component
 {
     
