@@ -1,3 +1,4 @@
+{-- Composant Blade - footer --}
 <div class="sub-footer py-5 mt-5">
     <div class="container">
       <div class="row">
