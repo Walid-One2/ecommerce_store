@@ -1,3 +1,4 @@
+{-- Composant Blade - hero --}
 @push('css')
     <link rel="stylesheet" href="{{ asset('client/components/molecules/hero/hero-product.css') }}">
 @endpush
