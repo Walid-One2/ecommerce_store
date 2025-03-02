@@ -1,3 +1,4 @@
+{-- Composant Blade - navbar --}
 @prepend('css')
 <link rel="stylesheet" href="{{ asset('client/components/organisms/navbar/style.css') }}">
 @endprepend
