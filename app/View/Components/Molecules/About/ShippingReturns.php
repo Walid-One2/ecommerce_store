@@ -4,6 +4,9 @@ namespace App\View\Components\Molecules\About;
 
 use Illuminate\View\Component;
 
+// Composant Molecule About - Livraison et retours
+// Politique de livraison
+
 class ShippingReturns extends Component
 {
     
