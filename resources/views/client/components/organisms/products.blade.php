@@ -1,3 +1,4 @@
+{-- Composant Blade - products --}
 @push('css')
     <style>
          .product-title{
