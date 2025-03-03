@@ -1,3 +1,4 @@
+{-- Composant Blade - carts --}
 @push('css')
     <style>
         #input_div{
