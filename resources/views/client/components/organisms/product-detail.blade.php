@@ -1,3 +1,4 @@
+{-- Composant Blade - product-detail --}
 <div class="row">
     <div class="col-md-6 col-12">
         <x-molecules.product-detail.product-images :dataProductimages="$dataProduct->productImage" />
