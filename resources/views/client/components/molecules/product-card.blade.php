@@ -1,3 +1,4 @@
+{-- Composant Blade - product-card --}
 <div class="col-md-3 col-6">
     <a href="{{ route('clientProductDetail', $title) }}">
         <div class="card mb-0">
