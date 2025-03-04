@@ -1,3 +1,4 @@
+{-- Composant Blade - checkout-form --}
 <div class="container py-4">
     <form action="{{ route('clientCheckoutSave') }}" method="post">
         @csrf
