@@ -4,6 +4,9 @@ use Monolog\Handler\NullHandler;
 use Monolog\Handler\StreamHandler;
 use Monolog\Handler\SyslogUdpHandler;
 
+// Configuration - Logs
+// Canaux et paramètres de logging
+
 return [
 
     'default' => env('LOG_CHANNEL', 'stack'),
