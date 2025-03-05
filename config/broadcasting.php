@@ -1,5 +1,8 @@
 <?php
 
+// Configuration - Broadcasting
+// Diffusion d'événements temps réel
+
 return [
 
     'default' => env('BROADCAST_DRIVER', 'null'),
