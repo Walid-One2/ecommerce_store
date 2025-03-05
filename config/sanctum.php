@@ -2,6 +2,9 @@
 
 use Laravel\Sanctum\Sanctum;
 
+// Configuration - Sanctum
+// Authentification API Laravel
+
 return [
 
     'stateful' => explode(',', env('SANCTUM_STATEFUL_DOMAINS', sprintf(
