@@ -1,5 +1,8 @@
 <?php
 
+// Configuration - CORS
+// Partage de ressources cross-origin
+
 return [
 
     'paths' => ['api/*', 'sanctum/csrf-cookie'],
