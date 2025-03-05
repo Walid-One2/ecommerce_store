@@ -1,5 +1,8 @@
 <?php
 
+// Configuration - Vues
+// Compilation et cache des vues
+
 return [
 
     'paths' => [
