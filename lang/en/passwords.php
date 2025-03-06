@@ -1,5 +1,8 @@
 <?php
 
+// Traductions - Mots de passe
+// Messages de réinitialisation
+
 return [
 
     'reset' => 'Your password has been reset!',
