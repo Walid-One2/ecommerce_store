@@ -1,5 +1,8 @@
 <?php
 
+// Configuration - Authentification
+// Guards et providers d'authentification
+
 return [
 
     'failed' => 'These credentials do not match our records.',
