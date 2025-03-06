@@ -1,5 +1,8 @@
 <?php
 
+// Configuration - Hachage
+// Algorithmes de hachage des mots de passe
+
 return [
 
     'driver' => 'bcrypt',
