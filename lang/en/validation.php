@@ -1,5 +1,8 @@
 <?php
 
+// Traductions - Validation
+// Messages d'erreur de validation
+
 return [
 
     'accepted' => 'The :attribute must be accepted.',
